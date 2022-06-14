@@ -1,7 +1,8 @@
-# Image
-
+# cấu trúc dự án
 ![](src/main/resources/images/cautrucduan.PNG)
+# giao diện
 ![](src/main/resources/images/giaodien.PNG)
+# ERM
 ![](src/main/resources/images/ERM.PNG)
 
 # Link video demo: https://drive.google.com/file/d/11VaPRRXVJS3-eZiYevFC0FVFO2BjZ-vP/view?usp=sharing
